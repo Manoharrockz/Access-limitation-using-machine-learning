@@ -14,3 +14,7 @@ SVM(support vector machine) : Based on a given set of data, we create a non-prob
 effectively.
  KNN(k-nearest neighbors algorithm) : As a type of map learning, the input consists of the k closest training data in the feature space, and if used for classification purposes, the object is the object assigned to the most common item among the k nearest neighbors and classified by majority vote.
 MLP(multilayer perceptron) : The hidden layer is added between the input layer and the output layer, and supervisory learning is performed using the back propagation algorithm, so that data that cannot be linearly separated can be classified.
+
+
+
+DATA SET TAKEN FROM: http://data.caida.org/datasets/dns/root-gtld-rtt/
